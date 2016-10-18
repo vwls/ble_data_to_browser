@@ -1,1 +1,8 @@
 LIVE BLUETOOTH DATA FROM PERIPHERAL TO BROWSER
+
+Light Blue Bean
+
+websockets 
+
+noble
+
