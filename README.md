@@ -1,8 +1,11 @@
 LIVE BLUETOOTH DATA FROM PERIPHERAL TO BROWSER
 
-Light Blue Bean
+How to get data from LBB (noble? something else?)
 
-websockets 
+How do we write logic for the UI
+ - thresholds
+ - modes?
+ - etc. 
 
-noble
+ How to, in code, account for LBB connceting to multiple devices (e.g. a phone and a computer at the same time)?
 
